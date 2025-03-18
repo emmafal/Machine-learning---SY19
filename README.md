@@ -14,7 +14,7 @@ We then worked on a classification dataset, optimizing performance using all the
 
 ### **Phase 3: Independent Exploration**
 For the final component, we selected a dataset from the internet to analyze and explore. We chose the **Medical Insurance Cost Prediction** dataset, available on Kaggle:
-???? [Dataset Link](https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction)
+[Dataset Link](https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction)
 
 ## Repository Structure
 
