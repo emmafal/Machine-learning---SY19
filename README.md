@@ -20,7 +20,7 @@ For the final component, we selected a dataset from the internet to analyze and 
 
 - `Project R/` – R environment containing our model training.
 - `datasets/` – Sample data used during the project.  
-- `reports/` – Project documentation, insights and performances (in French).
+- `report/` – Project documentation, insights and performances (in French).
 - `README.md` – This document.  
 
 ## Authors  
