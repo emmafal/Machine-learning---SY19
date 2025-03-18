@@ -18,13 +18,13 @@ For the final component, we selected a dataset from the internet to analyze and 
 
 ## Repository Structure
 
-- ???? `Project R/` – R environment containing our model training.
-- ???? `datasets/` – Sample data used during the project.  
-- ???? `reports/` – Project documentation, insights and performances (in French).
-- ???? `README.md` – This document.  
+- `Project R/` – R environment containing our model training.
+- `datasets/` – Sample data used during the project.  
+- `reports/` – Project documentation, insights and performances (in French).
+- `README.md` – This document.  
 
 ## Authors  
 
-????‍???? **[Emma Falkiewitz]**  
-????‍???? **[Lucie Béréziat]**
+**[Emma Falkiewitz]**  
+**[Lucie Béréziat]**
 
