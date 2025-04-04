@@ -16,6 +16,14 @@ We then worked on a classification dataset, optimizing performance using all the
 For the final component, we selected a dataset from the internet to analyze and explore. We chose the **Medical Insurance Cost Prediction** dataset, available on Kaggle:
 [Dataset Link](https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction)
 
+### Results
+- Regression task : 
+  MSE = 135.4013 using Smooth Splines
+- Classification task :
+  R² = 67,82% using RDA
+- Independent Exploration (classification): 
+  R² = 91%, MAE = 450 using KNN
+  
 ## Repository Structure
 
 - `Project R/` – R environment containing our model training.
